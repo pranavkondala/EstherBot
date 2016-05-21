@@ -3,7 +3,7 @@
     "HELLO": "Hi there!\nI’m the personal bot of Pranav Kondala, a Network Engineer from Virginia.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Pranav](postback:learn_about_pranav) %[One random fact!](postback:random_fact)",
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "learn_about_pranav": "I'm a Master in Telecommunications graduate.\n CCNA and CCNP certified. \n Tech enthusiast."
+    "learn_about_pranav": "I'm a Master in Telecommunications graduate.\n CCNA and CCNP certified. \n Tech enthusiast.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, PranavBot is back."
 }
