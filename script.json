@@ -4,7 +4,7 @@
     "TELL HIM": "test1",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "LEARN ABOUT PRANAV": "Awesome! What do you want to know about Pranav? \n  %[Education](postback:education) \n  %[Childhood](postback:childhood) \n  %[Career](postback:career)\n",
-    "EDUCATION": "Pranav has a Master in Science in Telecommunication and Bachelors of Engineering in Electronics and Communications engineering. \n His education was focued on Network engineering.\n Pranav was awarded with a prestigious "Chairman's Award 2016" by George Mason University for his academic excellence and contribution to his university.", 
+    "EDUCATION": "Pranav has a Master in Science in Telecommunication and Bachelors of Engineering in Electronics and Communications engineering. \n His education was focued on Network engineering.\n Pranav was awarded with a prestigious 'Chairman's Award 2016' by George Mason University for his academic excellence and contribution to his university.", 
     "PRANAV": "test",
     "I'M HERE FOR THE BOT": "Beep Boop...",
     "ONE RANDOM FACT!": "It's a FACT!",
