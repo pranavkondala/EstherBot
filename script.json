@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Pranav Kondala, a Network Engineer from Virginia.\n![Pranav](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAXlAAAAJGI5NGEwM2ZmLWExOTktNGU4Ni1hMmQ2LWExODI3Zjk1MzliNw.jpg)\nWant to know more about bots or learn about Pranav? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Pranav](postback:learn_about_pranav) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hi there!\nI’m the personal bot of Pranav Kondala, a Network Engineer from Virginia.\n![Pranav](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAXlAAAAJGI5NGEwM2ZmLWExOTktNGU4Ni1hMmQ2LWExODI3Zjk1MzliNw.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Pranav](postback:learn_about_pranav) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hi there!\nI’m the personal bot of Pranav Kondala, a Network Engineer from Virginia.\n![Pranav](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAXlAAAAJGI5NGEwM2ZmLWExOTktNGU4Ni1hMmQ2LWExODI3Zjk1MzliNw.jpg)\nWant to know more about bots or learn about Pranav? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Pranav](postback:learn_about_pranav) %[One random fact!](postback:random_fact)",
     "TELL HIM": "test1",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "LEARN ABOUT PRANAV": "Awesome! What do you want to know about Pranav? %[Education](postback:education) %[Childhood](postback:childhood) %[Career](postback:career)",
