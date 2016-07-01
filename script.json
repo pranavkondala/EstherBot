@@ -1,6 +1,6 @@
 {
-    "BOT": "Hi there!\nI’m a bot of Le Cerise, one of the finiest bakery in town. We specialize in cakes and cupcakes for all events.\n![Le Cerise](http://http://lecerise.in/wp-content/uploads/2016/06/logo-footer-background-1.png)\nWhat are you interested in? %[Cakes](postback:cake) %[Cupcakes](postback:cupcakes) %[Other](postback:other)",
-    "HELLO": "Hi there!\nI’m a bot of Le Cerise, one of the finiest bakery in town. We specialize in cakes and cupcakes for all events.\n![Le Cerise](http://http://lecerise.in/wp-content/uploads/2016/06/logo-footer-background-1.png)\nWhat are you interested in? %[Cakes](postback:cake) %[Cupcakes](postback:cupcakes) %[Other](postback:other)",
+    "BOT": "Hi there!\nI’m a bot of Le Cerise, one of the finiest bakery in town. We specialize in cakes and cupcakes for all events.\n![Le Cerise](http://lecerise.in/wp-content/uploads/2016/06/logo-footer-background-1.png)\nWhat are you interested in? %[Cakes](postback:cake) %[Cupcakes](postback:cupcakes) %[Other](postback:other)",
+    "HELLO": "Hi there!\nI’m a bot of Le Cerise, one of the finiest bakery in town. We specialize in cakes and cupcakes for all events.\n![Le Cerise](http://lecerise.in/wp-content/uploads/2016/06/logo-footer-background-1.png)\nWhat are you interested in? %[Cakes](postback:cake) %[Cupcakes](postback:cupcakes) %[Other](postback:other)",
     "TELL HIM": "test1",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "LEARN ABOUT PRANAV": "Awesome! What do you want to know about Pranav? %[Education](postback:education) %[Childhood](postback:childhood) %[Career](postback:career)",
