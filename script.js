@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Pranav? Just say HELLO to get started.')
+            return bot.say('Hi! Welcome to Le Cerise!! Say Hello to get started.')
                 .then(() => 'speak');
         }
     },
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`I didn't understand that. You could say 'Help' for more commans or 'Contact' to talk to us directly.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
